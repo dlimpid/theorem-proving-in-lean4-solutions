@@ -1,0 +1,10 @@
+name = "theorem-proving-in-lean4-solutions"
+version = "0.1.0"
+defaultTargets = ["theorem-proving-in-lean4-solutions"]
+
+[[lean_lib]]
+name = "TheoremProvingInLean4Solutions"
+
+[[lean_exe]]
+name = "theorem-proving-in-lean4-solutions"
+root = "Main"
