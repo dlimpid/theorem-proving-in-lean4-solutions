@@ -9,5 +9,6 @@ This is my solutions to [Theorem Proving in Lean 4](https://lean-lang.org/theore
 I am not fluent in Lean 4, so my solutions may not be good.
 Feel free to leave questions or comments in the [issues](https://github.com/dlimpid/theorem-proving-in-lean4-solutions/issues).
 
-- [Chapter 3.](https://github.com/dlimpid/theorem-proving-in-lean4-solutions/blob/main/TheoremProvingInLean4Solutions/Chapter03.lean)
+- [Chapter 3](https://github.com/dlimpid/theorem-proving-in-lean4-solutions/blob/main/TheoremProvingInLean4Solutions/Chapter03.lean)
+- [Chapter 4](https://github.com/dlimpid/theorem-proving-in-lean4-solutions/blob/main/TheoremProvingInLean4Solutions/Chapter04.lean)
 
